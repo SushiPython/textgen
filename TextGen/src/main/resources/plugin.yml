@@ -1,0 +1,6 @@
+name: TextGen
+version: ${project.version}
+main: us.sushipython.textgen.TextGen
+api-version: 1.16
+authors: [ SushiPython ]
+description: Text generation in mc blocks
